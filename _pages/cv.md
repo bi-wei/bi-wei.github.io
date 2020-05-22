@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Public Administration, Minzu University of China, 2014-2018
+          (Exchange student at Hong Kong Baptist University), 2016-2017
+* M.A. in International Relations, The University of Chicago, 2018-2019
+* Ph.D student in Management, GitHub University, 2020-2024 (expected)
 
 Work experience
 ======
