@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website | 欢迎来到我的主页"
+title: "Welcome to my website  欢迎来到我的主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. student in the School of Public Policy & Management at Tsinghua University in Beijing,[SPPM, THU](http://www.sppm.tsinghua.edu.cn/index.html). I received my M.A. in International Relations from The University of Chicago in 2019.
+I am a Ph.D. student in the [School of Public Policy & Management at Tsinghua University](http://www.sppm.tsinghua.edu.cn/index.html) in Beijing, China. I received my M.A. in [International Relations]( https://cir.uchicago.edu/) from [The University of Chicago](https:// uchicago.edu/) in 2019, under the supervision of [Prof. Dali L. Yang](https://political-science.uchicago.edu/directory/dali-yang). I received the Bachelor of Management from [Minzu University of China]( https://www.muc.edu.cn/) in 2018, and I was also once an exchange student at [Department of Government and International Studies of Hong Kong Baptist University.]( http://gis.hkbu.edu.hk/)
+我是[清华大学公共管理学院]( http://www.sppm.tsinghua.edu.cn/index.html)2020级博士生魏必。2019年，我在[芝加哥大学社会科学部国际关系委员会]( https://cir.uchicago.edu)获得硕士学位，我的导师是威廉·克劳德·雷维斯政治学讲席教授[杨大利]( https://political-science.uchicago.edu/directory/dali-yang)。2018年我在[中央民族大学]( Minzu University of China)管理学院获得管理学学士学位，期间我还在[香港浸会大学政府与国际事务学系] ( http://gis.hkbu.edu.hk/)做交换生。
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
