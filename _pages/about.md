@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bi WEI  欢魏必"
+title: "Bi WEI  魏必"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
