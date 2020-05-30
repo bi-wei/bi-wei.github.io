@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the School of Public Policy & Management at [Tsinghua University](http://www.sppm.tsinghua.edu.cn/index.html) in Beijing, China. I received my M.A. in [International Relations]( https://cir.uchicago.edu/) from [The University of Chicago](https:// uchicago.edu/) in 2019, under the supervision of [Prof. Dali L. Yang](https://political-science.uchicago.edu/directory/dali-yang). I received the Bachelor of Management from [Minzu University of China]( https://www.muc.edu.cn/) in 2018, and I was also once an exchange student at [Department of Government and International Studies](http://gis.hkbu.edu.hk/) of Hong Kong Baptist University.
+I am a Ph.D. candidate in the School of Public Policy & Management at [Tsinghua University](http://www.sppm.tsinghua.edu.cn/index.html) in Beijing, China. I received my M.A. in [International Relations]( https://cir.uchicago.edu/) from [The University of Chicago](https:// uchicago.edu/) in 2019, under the supervision of [Prof. Dali L. Yang](https://political-science.uchicago.edu/directory/dali-yang). I received the Bachelor of Management from [Minzu University of China]( https://www.muc.edu.cn/) in 2018, and I was also once an exchange student at [Department of Government and International Studies](http://gis.hkbu.edu.hk/) of Hong Kong Baptist University.
 
 My substantive research interests lie at the intersection of Economics and Public Policy, Digital Governance and Research Methods. My work has appeared or will soon appear in a number of academic journals including E-governance (in Chinese), Leadership Science (in Chinese), etc.
 
