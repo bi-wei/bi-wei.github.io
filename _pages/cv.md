@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-CV-2020-05-30（）
+[CV-2020-05-30]（https://cc458.github.io/files/CV_Bi Wei_2020.5.25.pdf）
 ==
