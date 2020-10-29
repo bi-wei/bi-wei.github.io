@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the School of Public Policy & Management at [Tsinghua 
 
 My substantive research interests lie at the intersection of Economics and Public Policy, Digital Governance and Research Methods. My work has appeared or will soon appear in a number of academic journals including E-governance (in Chinese), Leadership Science (in Chinese), etc.
 
-You can reach me at wbweibi@163.com.
+You can reach me at wei-b20@mails.tsinghua.edu.cn.
 
 魏必
 ======
@@ -20,5 +20,5 @@ You can reach me at wbweibi@163.com.
 
 我的研究兴趣主要在公共政策、服务经济、宏观经济、数字治理、全球治理、定量研究方法等领域。我与合作者的论文已经或即将刊载于《电子政务》、《中国领导科学》等期刊。
 
-欢迎通过电子邮箱 wbweibi@163.com 联系我。
+欢迎通过电子邮箱 wei-b20@mails.tsinghua.edu.cn 联系我。
 
